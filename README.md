@@ -1,12 +1,6 @@
-# رقيب | Raqeeb — AI Drone Detection & Defense Platform
+# رقيب | Raqeeb  AI Drone Detection & Defense Platform
 
 Raqeeb is an AI-powered drone detection & defense platform that turns existing camera infrastructure into a real-time threat monitoring network. It uses computer vision to detect and classify hostile drones, tracks them frame-to-frame, converts their pixel position into real-world GPS coordinates, and calculates their speed, heading, and estimated time of arrival to a target. A bilingual (Arabic/English) dashboard displays live alerts, historical attack analysis, and forecasted threat patterns, backed by an AI assistant that answers natural-language questions about the data.
-
----
-
-## The Problem
-
-Saudi Arabia has seen a rise in hostile drone incursions targeting sensitive sites — oil infrastructure, borders, airports, and sovereign facilities. Traditional counter-drone systems are expensive and require dedicated new hardware to deploy. Raqeeb instead uses the camera networks that already exist across the Kingdom to detect and track these threats in real time.
 
 ---
 
@@ -52,7 +46,7 @@ Saudi Arabia has seen a rise in hostile drone incursions targeting sensitive sit
 
 ## Demo Video
 
-📺 [Full system walkthrough on YouTube]({https://youtu.be/SiWSk-FkzSk})
+📺 [Full system walkthrough on YouTube](https://youtu.be/SiWSk-FkzSk)
 
 ---
 
